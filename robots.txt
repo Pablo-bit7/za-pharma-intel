@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pablo-bit7.github.io/za-pharma-intel/sitemap.xml
